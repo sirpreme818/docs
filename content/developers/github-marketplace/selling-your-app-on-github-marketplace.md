@@ -1,3 +1,6 @@
+
+
+
 ---
 title: Selling your app on GitHub Marketplace
 intro: 'Learn about requirements and best practices for selling your app on {% data variables.product.prodname_marketplace %}.'
